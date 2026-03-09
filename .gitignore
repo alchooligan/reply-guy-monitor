@@ -1,0 +1,21 @@
+# Secrets — never commit
+.secrets/
+
+# Runtime data
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Editors
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Personal voice guide — fill in your own, never commit
+prompts/reply-style.md
